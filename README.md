@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keys-i&show_icons=true&include_all_commits=true&theme=radical" alt="Keys-i" style="width: 45%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Keys-i&show_icons=true&theme=radical" alt="Keys-i" style="width: 45%; height: 200px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keys-i&theme=radical" alt="Keys-i" style="width: 45%; height: 200px;" />
 </p>
 
